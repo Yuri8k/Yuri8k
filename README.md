@@ -1,8 +1,11 @@
 ### Hi there 👋
 my projects:
 https://yuri8k.github.io/Glassmorphism-Product-Card/
+
 https://yuri8k.github.io/Automo-o-front-end/
+
 https://yuri8k.github.io/Login-Registration-Form/
+
 <!--
 **Yuri8k/Yuri8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
