@@ -1,8 +1,10 @@
 ### Hi there 👋
 my projects:
-https://yuri8k.github.io/Automo-o-front-end/
+Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
 
-https://yuri8k.github.io/Login-Registration-Form/
+Automoção Front-end com Gulp: https://yuri8k.github.io/Automo-o-front-end/
+
+Login e Registro: https://yuri8k.github.io/Login-Registration-Form/
 
 <!--
 **Yuri8k/Yuri8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
