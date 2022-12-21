@@ -1,7 +1,5 @@
 ### Hi there 👋
 my projects:
-https://yuri8k.github.io/Glassmorphism-Product-Card/
-
 https://yuri8k.github.io/Automo-o-front-end/
 
 https://yuri8k.github.io/Login-Registration-Form/
