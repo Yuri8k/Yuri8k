@@ -1,5 +1,7 @@
 ### Hi there 👋
 my projects:
+Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
+
 Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
 
 Automoção Front-end com Gulp: https://yuri8k.github.io/Automo-o-front-end/
