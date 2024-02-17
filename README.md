@@ -13,8 +13,6 @@ Desenvolvedor Front-end
 
 my projects:
 
-Techno-curso: https://yuri8k.github.io/Techno-Cursos/
-
 Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
 
 Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
