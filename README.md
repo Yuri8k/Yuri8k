@@ -13,7 +13,7 @@ Desenvolvedor Front-end
 
 my projects:
 
-Portifólio: <a target="_blank" href="https://yurioliveira.vercel.app/">Portifólio/</a>
+Portifólio: https://yurioliveira.vercel.app/
 
 Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
 
