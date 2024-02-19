@@ -13,6 +13,8 @@ Desenvolvedor Front-end
 
 my projects:
 
+Portifólio: https://yurioliveira.vercel.app/
+
 Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
 
 Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
