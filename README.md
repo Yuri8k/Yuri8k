@@ -13,7 +13,7 @@ Desenvolvedor Front-end
 
 my projects:
 
-Portfólio: https://yurioliveira.vercel.app/
+Portfólio: https://portfolio-tawny-phi-93.vercel.app/
 
 Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
 
