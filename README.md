@@ -14,6 +14,8 @@ my projects:
 
 Portfólio: https://portfolio-tawny-phi-93.vercel.app/
 
+Andamento Ecommerce: https://ecommerce-eight-plum-27.vercel.app/
+
 Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
 
 Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
