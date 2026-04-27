@@ -2,7 +2,7 @@
 
 Desenvolvedor Front-end
 
-<div style="display: inline_block"><br>
+<div style="display: flex; align-items: center; justify-content: flex-start;"><br>
   <img align="center" alt="Yuri-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,9 +14,7 @@ my projects:
 
 Portfólio: https://portfolio-tawny-phi-93.vercel.app/
 
-Andamento Ecommerce: https://ecommerce-eight-plum-27.vercel.app/
-
-Vue-basic-Project: https://yuri8k.github.io/basic-design-add-cart-VUEJS/
+Ecommerce: https://ecommerce-eight-plum-27.vercel.app/
 
 Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
 
