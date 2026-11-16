@@ -1,21 +1,41 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou o Yuri 👋</h1>
+ 
+<p align="center">
+  <b>Desenvolvedor Front-end focado em e-commerce</b><br>
+  Crio lojas virtuais do zero e mantenho lojas em produção, usando IA aplicada ao desenvolvimento.
+</p>
+<p align="center">
+  <a href="https://portfolio-tawny-phi-93.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/yuri-oliveira-671b70213/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+---
+ 
+### 💼 O que eu faço hoje
+ 
+- 🛒 **Manutenção e evolução de lojas virtuais** em produção (correções, melhorias e novas features)
+- 🏗️ **Criação de lojas do zero**, partindo de mockup/HTML até a loja funcionando
+- 🤖 **Desenvolvimento com IA aplicada**: fluxo próprio com MCP, RAG, skills e regras personalizadas para acelerar entregas sem abrir mão de revisar o código
+---
+ 
+### 🛠️ Tecnologias
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,git,github,vercel" alt="Tecnologias">
+</p>
 
-Desenvolvedor Front-end
-
-<div style="display: flex; align-items: center; justify-content: flex-start;"><br>
-  <img align="center" alt="Yuri-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yuri-Vue" height="30" width="80" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge">
-</div>
-<br>
-
-my projects:
-
-Portfólio: https://portfolio-tawny-phi-93.vercel.app/
-
-Ecommerce: https://ecommerce-eight-plum-27.vercel.app/
-
-Animation Efeects: https://yuri8k.github.io/Animation-Effects/?=987123
-
-Login e Registro: https://yuri8k.github.io/Login-Registration-Form/
+### 🚀 Projetos
+ 
+| Projeto | Descrição | Link |
+|---|---|---|
+| **Portfólio** | Meu site pessoal com projetos e habilidades | [Acessar](https://portfolio-tawny-phi-93.vercel.app/) |
+| **E-commerce** | Projeto de loja virtual (front-end) | [Acessar](https://ecommerce-eight-plum-27.vercel.app/) |
+ 
+ 
+<p align="center">
+  <i>Aberto a oportunidades como Desenvolvedor.</i>
+</p>
+ 
