@@ -17,7 +17,7 @@
 ### 💼 O que eu faço hoje
  
 - 🛒 **Manutenção e evolução de lojas virtuais** em produção (correções, melhorias e novas features)
-- 🏗️ **Criação de lojas do zero**, partindo de mockup/HTML até a loja funcionando
+- 🏗️ **Criação de lojas do zero**, partindo de mockup/HTML, Figma, até a loja funcionando
 - 🤖 **Desenvolvimento com IA aplicada**: fluxo próprio com MCP, RAG, skills e regras personalizadas para acelerar entregas sem abrir mão de revisar o código
 ---
  
